@@ -63,4 +63,4 @@ pip-delete-this-directory.txt
 docker-compose.override.yml
 
 # fichiers liés à Azure (optionnel)
-startup.txt
+startup.txt 
